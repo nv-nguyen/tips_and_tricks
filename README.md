@@ -1,9 +1,7 @@
 # Tips and tricks
 Some cools tips and tricks for coding that I learnt from my collaborators and labmates (for my personal uses).
 - Bash hightlights with [Oh my bash](https://github.com/ohmybash/oh-my-bash)
-```
-bash -c "$(curl -fsSL https://raw.githubusercontent.com/ohmybash/oh-my-bash/master/tools/install.sh)"
-```
+
 - Colors, tree views with [LSD](https://github.com/lsd-rs/lsd)
 ```
 sudo snap install lsd
